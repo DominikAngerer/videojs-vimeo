@@ -1,24 +1,27 @@
 {
   "name": "videojs-vimeo",
-  "version": "2.0.5",
-  "description": "Allows you to use Vimeo URL as source with Video.js.",
+  "version": "1.0.0",
+  "description": "Video JS Vimeo Plugin including an Hotfix",
   "main": "src/Vimeo.js",
+  "directories": {
+    "example": "example"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/eXon/videojs-vimeo.git"
+    "url": "git+https://github.com/DominikAngerer/videojs-vimeo.git"
   },
   "keywords": [
-    "video.js",
+    "video-js",
     "vimeo",
-    "plugin"
+    "video-js-vimeo"
   ],
-  "author": "Benoit Tremblay <trembl.ben@gmail.com>",
+  "author": "DominikAngerer",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/eXon/videojs-vimeo/issues"
+    "url": "https://github.com/DominikAngerer/videojs-vimeo/issues"
   },
-  "homepage": "https://github.com/eXon/videojs-vimeo#readme"
+  "homepage": "https://github.com/DominikAngerer/videojs-vimeo#readme"
 }
