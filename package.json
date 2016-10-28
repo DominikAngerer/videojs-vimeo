@@ -1,6 +1,6 @@
 {
-  "name": "videojs-vimeo",
-  "version": "1.0.0",
+  "name": "videojs-vimeo-v2",
+  "version": "2.0.0",
   "description": "Video JS Vimeo Plugin including an Hotfix",
   "main": "src/Vimeo.js",
   "directories": {
