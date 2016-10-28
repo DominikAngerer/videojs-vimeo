@@ -18,7 +18,7 @@
     "vimeo",
     "video-js-vimeo"
   ],
-  "author": "DominikAngerer",
+  "author": "Benoit Tremblay <trembl.ben@gmail.com>, DominikAngerer <me@dominikangerer.com>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/DominikAngerer/videojs-vimeo/issues"
