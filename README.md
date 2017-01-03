@@ -1,7 +1,7 @@
 # Vimeo Playback Technology<br />for [Video.js](https://github.com/videojs/video.js)
 
 ## Install
-You can use bower (`bower install videojs-vimeo`), npm (`npm install videojs-vimeo`) or the source and build it using `npm run build`. Then, the only file you need is dist/Vimeo.min.js.
+You can use bower npm (`npm install videojs-vimeo-v2`) or the source and build it using `npm run build`. Then, the only file you need is dist/Vimeo.min.js.
 
 ## Version Note
 Use branch `vjs4` if you still using old VideoJS `v4.x`.
