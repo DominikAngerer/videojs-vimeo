@@ -83,7 +83,7 @@ THE SOFTWARE. */
 
             _this.poster(_this.poster_);
             _this.trigger('posterchange');
-            $('.vjs-poster').css({
+            $(_this).find('.vjs-poster').css({
               'background-image': 'url(' + _this.poster_ + ')'
             });
           }
